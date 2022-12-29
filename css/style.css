@@ -26,11 +26,11 @@
 }
 #nav-bar ul li a:hover
 {
-    color: #007bff!important; 
+    color: #2ae2ca!important; 
 }
 .navbar
 {
-    background: #fff;
+    background: coral;
 }
 .navbar-toggler
 {
@@ -55,8 +55,8 @@
 }
 .carousel-caption h1
 {
-    color:rgb(50, 143, 206);
-    font-size: 100px;
+    color:rgb(231, 23, 51);
+    font-size: 38px;
 }
 
 /*-----------------About--------------*/
@@ -115,6 +115,13 @@
     width:170px;
     margin:20px auto 5px;
 }
+#services h2
+{
+    font-size:38;
+    text-align: center;
+    color: #da23c1 !important;
+    padding-bottom: 10px;
+}
 .services
 {
     margin-top: 40px;
@@ -149,9 +156,10 @@
 }
 .img-responsive
 {
-    width: 190px;
-    height:230px;
-    border: 48%;
+    width: 80px;
+    height:100px;
+    border: 24%;
+    display: block;
 }
 h1
 {
@@ -165,7 +173,7 @@ h1::after
     background: #007bff;
     display: block;
     height: 3px;
-    width: 170px;
+    width: 90px;
     margin:20px auto 5px;
 }
 .profile-pic
@@ -189,7 +197,7 @@ h1::after
 }
 .profile-pic h2
 {
-    font-size: 22px;
+    font-size: 32px;
     font-weight: bold;
     margin-top: 15px;
     color: #007bff !important;
